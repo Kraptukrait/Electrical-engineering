@@ -5,9 +5,9 @@ Year 2025/26
 Welcome to the epicenter of electrical engineering!
 Here we archive everything that worked in class—and sometimes even what didn't.
 
-* **Goal:** Quick access to all assignments.
-* **Format:** Code examples, explanations, and visual solutions.
-* **Get involved:** Create a pull request if you have a better solution!
+* **Goal:** Find tasks faster than the Arduino boots up.
+* **Format:** Code, explanations, and images so that even the LED knows what to do.
+* **Get involved:** If you can do it better: Pull Request → Become a legend 😎
 
 ---
 
