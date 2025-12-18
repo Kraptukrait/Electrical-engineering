@@ -10,6 +10,8 @@ Welcome to our class's central hub! This is where we collect everything we work 
 
 ---
 
+## 📂 Overview of topics
+
 ## Author
 
 - [@Kraptukrait](https://www.github.com/Kraptukrait)
