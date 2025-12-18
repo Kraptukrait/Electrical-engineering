@@ -2,7 +2,8 @@
 Year 2025/26
 
 ## 📖 About this repository
-Welcome to our class's central hub! This is where we collect everything we work on in class. 
+Welcome to the epicenter of electrical engineering!
+Here we archive everything that worked in class—and sometimes even what didn't.
 
 * **Goal:** Quick access to all assignments.
 * **Format:** Code examples, explanations, and visual solutions.
