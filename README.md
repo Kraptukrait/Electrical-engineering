@@ -1,5 +1,4 @@
-# ⚡ Electrical engineering | Exercises, explanations & solutions
-Year 2025/26
+![Electrical Engineering Banner](data/banner.png)
 
 ## 📖 About this repository
 Welcome to the epicenter of electrical engineering!
