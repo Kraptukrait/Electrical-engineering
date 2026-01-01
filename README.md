@@ -22,6 +22,7 @@ Here we archive everything that worked in class—and sometimes even what didn't
 | **PWM, AD Converter & Potentiometer** | ✅ Done |
 | **DC motor** | ✅ Done |
 | **Servo motor & stepper motor** | 🚧 In progress |
+| **Exam 2 Preparation** | 🚧 In progress |
 | **Exam 2** | 📅 Planned |
 
 ---
