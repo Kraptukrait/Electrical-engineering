@@ -24,7 +24,7 @@ void setup() {
 
 void loop() {
   int potiread = analogRead(potentiometer);
-  int setmap = map(potiread, 0, 1023, 8, 17);
+  int setmap = map(potiread, 0, 1023, 6, 17);
   myStepper.setSpeed(setmap);
 
   while (alarm == true) {} // If the button was pressed, do nothing anymore
