@@ -21,9 +21,9 @@ Here we archive everything that worked in class—and sometimes even what didn't
 | **DHT11, GY-21, Thermistor & OLED Display** | ✅ Done |
 | **PWM, AD Converter & Potentiometer** | ✅ Done |
 | **DC motor** | ✅ Done |
-| **Servo motor & stepper motor** | 🚧 In progress |
-| **Exam 2 Preparation** | 🚧 In progress |
-| **Exam 2** | 📅 Planned |
+| **Servo motor & stepper motor** | ✅ Done |
+| **Exam 2 Preparation** | ✅ Done |
+| **Exam 2** | 🚧 In progress |
 
 ---
 
