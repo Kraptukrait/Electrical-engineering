@@ -23,7 +23,8 @@ Here we archive everything that worked in class—and sometimes even what didn't
 | **DC motor** | ✅ Done |
 | **Servo motor & stepper motor** | ✅ Done |
 | **Exam 2 Preparation** | ✅ Done |
-| **Exam 2** | 🚧 In progress |
+| **Exam 2** | ✅ Done |
+| **Exam** | 🚧 In progress |
 
 ---
 
