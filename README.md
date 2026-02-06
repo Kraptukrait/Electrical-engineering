@@ -24,7 +24,8 @@ Here we archive everything that worked in class—and sometimes even what didn't
 | **Servo motor & stepper motor** | ✅ Done |
 | **Exam 2 Preparation** | ✅ Done |
 | **Exam 2** | ✅ Done |
-| **EEPROM** | 🚧 In progress |
+| **EEPROM** | ✅ Done |
+| **parking garage** | 🚧 In progress |
 
 ---
 
