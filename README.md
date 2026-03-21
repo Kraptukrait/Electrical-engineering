@@ -26,6 +26,7 @@ Here we archive everything that worked in class—and sometimes even what didn't
 | **Exam 2** | ✅ Done |
 | **EEPROM** | ✅ Done |
 | **Festival car park (MQTT)** | 🚧 In progress |
+| **Exam 3** | 🗓️ planned |
 
 ---
 
