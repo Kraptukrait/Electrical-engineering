@@ -28,8 +28,9 @@ Here we archive everything that worked in class—and sometimes even what didn't
 | **Festival car park (MQTT)** | ✅ Done |
 | **Exam 3 Preparation** | ✅ Done |
 | **Exam 3** | ✅ Done |
-| **Exam 3 Review** | 🚧 In progress |
-| **final Exam Preparation** | 🚧 In progress |
+| **Exam 3 Review** | ✅ Done |
+| **final Exam Preparation** | ✅ Done |
+| **final Exam** | ✅ Done |
 
 ---
 
